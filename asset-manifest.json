@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeedStore/static/css/main.3880deba.css",
+    "main.js": "/SeedStore/static/js/main.f152e70d.js",
+    "static/js/453.7f11eae1.chunk.js": "/SeedStore/static/js/453.7f11eae1.chunk.js",
+    "static/media/field.jpg": "/SeedStore/static/media/field.55ab0b7abd0337206140.jpg",
+    "static/media/NYWeedLogo.jpg": "/SeedStore/static/media/NYWeedLogo.2d796939e6de528ae283.jpg",
+    "static/media/weed.jpeg": "/SeedStore/static/media/weed.a62bf09862335f28a69d.jpeg",
+    "static/media/slick.svg": "/SeedStore/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SeedStore/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SeedStore/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SeedStore/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SeedStore/index.html",
+    "main.3880deba.css.map": "/SeedStore/static/css/main.3880deba.css.map",
+    "main.f152e70d.js.map": "/SeedStore/static/js/main.f152e70d.js.map",
+    "453.7f11eae1.chunk.js.map": "/SeedStore/static/js/453.7f11eae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3880deba.css",
+    "static/js/main.f152e70d.js"
+  ]
+}
