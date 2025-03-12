@@ -72,7 +72,7 @@ function Main() {
   return (
     <>
       <Header />
-      <Typography sx={{fontSize: '45pt', display: 'flex', justifyContent: 'center'}}>Welcome to NYWeedSeeds!</Typography>
+      <Typography sx={{fontSize: '45pt', display: 'flex', justifyContent: 'center'}}>Welcome to NYWeedSeeds!!!</Typography>
       <img
   style={{
     display: 'block',
